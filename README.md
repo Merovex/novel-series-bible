@@ -8,6 +8,7 @@ For those who use Scrivener, there are a myriad of templates on how to organize 
 * Milieu
 * Per-Novel metadata
 * Templates
+* Status based on [Jamie's Writing Phases](http://www.jamierubin.net/2013/10/18/my-process-for-story-drafts/)
 
 ### Authors and Contributors
 
